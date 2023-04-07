@@ -7,7 +7,9 @@ Additional folder icons for GNOME
 
 This is additional Adwaita folder icons that can be used for folders to make them more distinguishable, this is not an icon theme, this is the exact same Adwaita icons but with different symbolics. size and position are 1:1 to Adwaita folders
 
-There are some silly icons, don't get them seriously ;)
+Icons used are either from [adwaita-icon-theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) or [icon-development-kit](https://gitlab.gnome.org/Teams/Design/icon-development-kit). To browse icons from both, use [Icon Library](https://gitlab.gnome.org/World/design/icon-library)
+
+There are some silly icons, don't take them seriously ;)
 
 ## Why not [SIMILAR PROJECT NAME]?
 

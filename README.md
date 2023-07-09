@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to [Codeberg](https://codeberg.org/daudix-UFO/Adwaita-Folder-Icons), all future work will continue there.
+
 # Adwaita-Folder-Icons
 Additional folder icons for GNOME
 
